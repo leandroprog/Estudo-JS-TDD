@@ -1,1 +1,1 @@
-a = 3
+const numero =3;
